@@ -6,4 +6,4 @@
 ![image](https://user-images.githubusercontent.com/58561994/150011801-6f67a25c-0683-49c3-b668-040ca0f2e066.png)
 
 # Demo Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Yk0gUV4awRyo/0.jpg)](https://www.youtube.com/watch?v=k0gUV4awRyo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k0gUV4awRyo/0.jpg)](https://www.youtube.com/embed/k0gUV4awRyo)
